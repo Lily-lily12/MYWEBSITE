@@ -93,7 +93,7 @@ def my_writings():
     container = st.container(border=True, height=500)
     container.subheader("कितनी कहानियां")
     container.divider()
-    container.image("https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/A_lonely_forest_way.jpg/640px-A_lonely_forest_way.jpg")
+    container.image("https://i0.wp.com/picjumbo.com/wp-content/uploads/long-road-in-forest-vertical.jpg?w=2210&quality=70")
     with st.expander("Click here to read"):
         html_code = """
         <h1 style='font-size:16px;'>
@@ -151,7 +151,7 @@ def my_writings():
     container = st.container(border=True, height=500)
     container.subheader("बनारस")
     container.divider()
-    container.image("https://t3.ftcdn.net/jpg/02/05/83/04/360_F_205830494_1IFB9ryk0u3C1cdK55AyykunnE0gnLIf.jpg")
+    container.image("https://i.pinimg.com/736x/a7/b8/7b/a7b87b3fbdef2be558350f2959f29ae0.jpg")
     with st.expander("Click here to read"):
         html_code = """
         <h1 style='font-size:16px;'>
