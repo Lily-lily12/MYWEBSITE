@@ -151,7 +151,7 @@ def my_writings():
     container = st.container(border=True, height=500)
     container.subheader("बनारस")
     container.divider()
-    container.image("https://i.pinimg.com/736x/a7/b8/7b/a7b87b3fbdef2be558350f2959f29ae0.jpg")
+    container.image("https://img.artpal.com/92108/23-16-11-7-8-1-17m.jpg")
     with st.expander("Click here to read"):
         html_code = """
         <h1 style='font-size:16px;'>
